@@ -1,0 +1,17 @@
+
+# safe publish
+node_modules/
+vendor/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.sql
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tar.gz
